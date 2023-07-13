@@ -1,1 +1,2 @@
 # Web-scraping-using-beautiful-soup
+This Project is about scraping the details of the person from the given website using Beautiful Soup. I have scraped the image of a Person, the person's details, and the person's Affidavit. I have also created a CSV file in which I have scraped the other details of the person like Name, party name, Address, Gender, State, Father's Name/Husband's Name, and the Assembly constituency. 
